@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/reportimage"
+        android:title="Report Image"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/shareimage"
+        android:title="Share Image"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+    <item android:id="@+id/cancel"
+        android:title="Cancel"
+        android:orderInCategory="100"
+        app:showAsAction="never" />
+</menu>
